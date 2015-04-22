@@ -1,4 +1,4 @@
-# SWT1 - KIT - Tutorium 17
+# KIT - SWT1 - Kay Schmitteckert - Tutorium 17
 
 **￼￼￼Übungsbetrieb**
 - ￼Tutorium alle **14 Tage** (Do. 8:00 - Raum 236)
