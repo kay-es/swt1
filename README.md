@@ -1,4 +1,4 @@
-# KIT - SWT1 - Kay Schmitteckert - Tutorium 17
+# KIT - SWT1 - Kay Schmitteckert (uheat@student.kit.edu) - Tutorium 17
 
 **￼￼￼Übungsbetrieb**
 - ￼Tutorium alle **14 Tage** (Do. 8:00 - Raum 236)
